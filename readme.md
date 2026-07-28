@@ -48,8 +48,8 @@ Currently exploring →  System Design · LLM applications
  
 | Project | Description |
 |---|---|
-| <img src="https://raw.githubusercontent.com/srinathnulidonda/savlink/main/frontend/src/assets/logo.png" width="20" height="20" style="vertical-align:middle; border-radius:4px;"> **Savlink** | Smart personal web library — folders, tags, short URLs & analytics |
-| <img src="https://raw.githubusercontent.com/srinathnulidonda/CineBrain/main/assets/images/cb.png" width="20" height="20" style="vertical-align:middle; border-radius:4px;"> **CineBrain** | AI movie, TV & anime recommendations with JWT auth |
+| <img src="https://raw.githubusercontent.com/srinathnulidonda/savlink/main/frontend/src/assets/logo.png" width="20" height="20" align="middle"> **Savlink** | Smart personal web library — folders, tags, short URLs & analytics |
+| <img src="https://raw.githubusercontent.com/srinathnulidonda/CineBrain/main/assets/images/cb.png" width="20" height="20" align="middle"> **CineBrain** | AI movie, TV & anime recommendations with JWT auth |
  
 ---
  
@@ -58,18 +58,16 @@ Currently exploring →  System Design · LLM applications
  
 ### ● B.Tech in Computer Science — CMR Engineering College, Hyderabad • 2021 – 2025
 - Core focus: Algorithms, Database Systems, Web Technologies, Software Engineering
-- Projects: Full-stack e-commerce platform, Real-time chat application, IoT home automation system
-- Technologies: Java, Python, MySQL, HTML/CSS/JavaScript, Android SDK
+- Projects: Travel Recommendation platform, Drug discover using AI ML
+- Technologies: Python, MySQL, HTML/CSS/JavaScript, Flask
 
 ### ● Freelance Full Stack Developer — Independent • 2024 – Present
-- Delivered 5+ production web/mobile applications for diverse clients
 - Specialized in RESTful APIs, real-time applications, and cross-platform solutions
 - Technologies: Node.js, Python/FastAPI, React.js, Flutter, PostgreSQL, MongoDB, AWS
 - Key achievements: 95% client satisfaction rate, 30% average performance improvement over legacy systems
 
 ### ● Open Source Builder — Community Projects • 2024 – Present
 - Maintainer of Savlink, CineBrain, JustScroll, AgriPrice, and Weatherly projects
-- Combined 10,000+ downloads across all projects
 - Active contributor to developer community with tutorials and code samples
 - Technologies: Full JavaScript/TypeScript ecosystem, Python data science stack, DevOps tools
 
@@ -132,13 +130,7 @@ Currently exploring →  System Design · LLM applications
  
 ## FEATURED PROJECTS
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
-  <h3 style="margin: 0;"><img src="https://raw.githubusercontent.com/srinathnulidonda/savlink/main/frontend/src/assets/logo.png" width="24" height="24" style="vertical-align:middle; border-radius:4px;"> Savlink</h3>
-  <div>
-    <a href="https://savlink.vercel.app"><img src="https://img.shields.io/badge/Live-0D6EFD?style=flat-square&logo=vercel&logoColor=white" alt="Live"></a>
-    <a href="https://github.com/srinathnulidonda/savlink"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-  </div>
-</div>
+### <img src="https://raw.githubusercontent.com/srinathnulidonda/savlink/main/frontend/src/assets/logo.png" width="24" height="24" align="middle"> &nbsp;Savlink&nbsp;&nbsp; [![Live](https://img.shields.io/badge/Live-0D6EFD?style=flat-square&logo=vercel&logoColor=white)](https://savlink.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/srinathnulidonda/savlink)
 
 - Knowledge management platform with hierarchical folder/tag organization
 - Custom short-link generation with an analytics dashboard
@@ -146,13 +138,7 @@ Currently exploring →  System Design · LLM applications
 - Built with React.js, Node.js/Express, PostgreSQL, and Redis caching
 - Deployed on Vercel with a CI/CD pipeline ensuring 99.9% uptime
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
-  <h3 style="margin: 0;"><img src="https://raw.githubusercontent.com/srinathnulidonda/CineBrain/main/assets/images/cb.png" width="24" height="24" style="vertical-align:middle; border-radius:4px;"> CineBrain</h3>
-  <div>
-    <a href="https://cinebrain.vercel.app"><img src="https://img.shields.io/badge/Live-0D6EFD?style=flat-square&logo=vercel&logoColor=white" alt="Live"></a>
-    <a href="https://github.com/srinathnulidonda/cinebrain"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-  </div>
-</div>
+### <img src="https://raw.githubusercontent.com/srinathnulidonda/CineBrain/main/assets/images/cb.png" width="24" height="24" align="middle"> &nbsp;CineBrain&nbsp;&nbsp; [![Live](https://img.shields.io/badge/Live-0D6EFD?style=flat-square&logo=vercel&logoColor=white)](https://cinebrain.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/srinathnulidonda/cinebrain)
 
 - Intelligent recommendation system leveraging TMDB APIs and machine learning
 - Delivers personalized movie, TV show, and anime suggestions
@@ -160,13 +146,7 @@ Currently exploring →  System Design · LLM applications
 - Built with Python/FastAPI backend, React.js frontend with Redux, and PostgreSQL
 - Achieved 85%+ recommendation accuracy in user testing
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
-  <h3 style="margin: 0;"><img src="https://raw.githubusercontent.com/srinathnulidonda/justscroll/main/web/favicon.png" width="24" height="24" style="vertical-align:middle; border-radius:4px;"> JustScroll</h3>
-  <div>
-    <a href="https://justscroll.vercel.app"><img src="https://img.shields.io/badge/Live-0D6EFD?style=flat-square&logo=vercel&logoColor=white" alt="Live"></a>
-    <a href="https://github.com/srinathnulidonda/justscroll"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-  </div>
-</div>
+### <img src="https://raw.githubusercontent.com/srinathnulidonda/justscroll/main/web/favicon.png" width="24" height="24" align="middle"> &nbsp;JustScroll&nbsp;&nbsp; [![Live](https://img.shields.io/badge/Live-0D6EFD?style=flat-square&logo=vercel&logoColor=white)](https://justscroll.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/srinathnulidonda/justscroll)
 
 - Cross-platform manga reader supporting 50+ manga sources
 - Offline reading, intelligent chapter tracking, and cross-device sync
@@ -174,26 +154,14 @@ Currently exploring →  System Design · LLM applications
 - Adaptive image quality and background chapter downloading
 - Supports EPUB and CBZ formats with customizable reading modes
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
-  <h3 style="margin: 0;">🌾 AgriPrice</h3>
-  <div>
-    <a href="https://agriprice-tracker.onrender.com"><img src="https://img.shields.io/badge/Live-0D6EFD?style=flat-square&logo=render&logoColor=white" alt="Live"></a>
-    <a href="https://github.com/srinathnulidonda/agriprice-tracker"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-  </div>
-</div>
+### 🌾 AgriPrice&nbsp;&nbsp; [![Live](https://img.shields.io/badge/Live-0D6EFD?style=flat-square&logo=render&logoColor=white)](https://agriprice-tracker.onrender.com) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/srinathnulidonda/agriprice-tracker)
 
 - Agricultural price forecasting system using machine learning models
 - Random Forest algorithm with feature engineering across prices, weather, and seasonal patterns
 - Built with Python/scikit-learn backend and a React.js dashboard with real-time charts
 - Delivers 7-day forecasts with 80%+ accuracy across major agricultural commodities
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
-  <h3 style="margin: 0;"><img src="https://raw.githubusercontent.com/srinathnulidonda/weatherly/main/frontend/assets/favicon.png" width="24" height="24" style="vertical-align:middle; border-radius:4px;"> Weatherly</h3>
-  <div>
-    <a href="https://getweatherly.vercel.app"><img src="https://img.shields.io/badge/Live-0D6EFD?style=flat-square&logo=vercel&logoColor=white" alt="Live"></a>
-    <a href="https://github.com/Srinathnulidonda/weatherly"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
-  </div>
-</div>
+### <img src="https://raw.githubusercontent.com/srinathnulidonda/weatherly/main/frontend/assets/favicon.png" width="24" height="24" align="middle"> &nbsp;Weatherly&nbsp;&nbsp; [![Live](https://img.shields.io/badge/Live-0D6EFD?style=flat-square&logo=vercel&logoColor=white)](https://getweatherly.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Srinathnulidonda/weatherly)
 
 - Comprehensive weather platform with real-time meteorological data and forecasts
 - Dynamic theme engine that adapts to weather conditions, plus severe weather alerts
