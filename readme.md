@@ -1,205 +1,123 @@
 <div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=0D6EFD&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Srinath;Full+Stack+Product+Engineer;React+%C2%B7+Flask+%C2%B7+PostgreSQL;Building+scalable+web+products)](https://git.io/typing-svg)
 
-# **Srinath Nulidonda**
-## Full Stack Product Engineer | Backend & UX Specialist
+<a href="https://srinathnulidonda.vercel.app">
+  <img src="https://srinathnulidonda.vercel.app/logo.webp" height="64" alt="Srinath Nulidonda" />
+</a>
+
+### Full Stack Product Engineer | Backend & UX Specialist
+
 *Building scalable web products with a focus on reliability, performance, and user experience*
- 
-<br/>
- 
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D6EFD?style=for-the-badge&logo=vercel&logoColor=white)](https://srinathnulidonda.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinathnulidonda)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/srinath2973)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/srinath2973)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinathnulidonda@gmail.com)
- 
+
+<img src="./assets/status.svg" height="36" alt="Open to work: freelance and full-time. Based in Hyderabad, India." />
+
+[**About**](#about) &nbsp;•&nbsp;
+[**Portfolio**](#portfolio) &nbsp;•&nbsp;
+[**Stack**](#tech-stack) &nbsp;•&nbsp;
+[**Competencies**](#key-competencies) &nbsp;•&nbsp;
+[**Projects**](#featured-projects) &nbsp;•&nbsp;
+[**Activity**](#github-activity)
+
+<img src="./assets/divider.svg" width="100%" height="3" alt="" />
+
 </div>
 
-<details align="left">
-  <summary>Table of Contents</summary>
-  <ul>
-    <li><a href="#about-me">About Me</a></li>
-    <li><a href="#active-projects">Active Projects</a></li>
-    <li><a href="#education--experience">Education & Experience</a></li>
-    <li><a href="#tech-stack">Tech Stack</a></li>
-    <li><a href="#key-competencies">Key Competencies</a></li>
-    <li><a href="#featured-projects">Featured Projects</a></li>
-    <li><a href="#github-activity">GitHub Activity</a></li>
-  </ul>
-</details>
- 
----
- 
- 
-## About Me
- 
-I build scalable web products focused on backend reliability, API design, and responsive frontend systems.
- 
-```text
-Backend focus       →  APIs · Auth systems · PostgreSQL · Redis
-Frontend focus      →  React UI systems & responsive frontend architecture
-Currently exploring →  System Design · LLM applications
-```
- 
----
- 
- 
-## ACTIVE PROJECTS
- 
-| Project | Description |
-|---|---|
-| <img src="https://raw.githubusercontent.com/srinathnulidonda/savlink/main/frontend/src/assets/logo.png" width="20" height="20" align="middle"> **Savlink** | Smart personal web library — folders, tags, short URLs & analytics |
-| <img src="https://raw.githubusercontent.com/srinathnulidonda/CineBrain/main/assets/images/cb.png" width="20" height="20" align="middle"> **CineBrain** | AI movie, TV & anime recommendations with JWT auth |
- 
----
- 
- 
-## EDUCATION & EXPERIENCE
- 
-### ● B.Tech in Computer Science — CMR Engineering College, Hyderabad • 2021 – 2025
-- Core focus: Algorithms, Database Systems, Web Technologies, Software Engineering
-- Projects: Travel Recommendation platform, Drug discover using AI ML
-- Technologies: Python, MySQL, HTML/CSS/JavaScript, Flask
+## About
 
-### ● Freelance Full Stack Developer — Independent • 2024 – Present
-- Specialized in RESTful APIs, real-time applications, and cross-platform solutions
-- Technologies: Node.js, Python/FastAPI, React.js, Flutter, PostgreSQL, MongoDB, AWS
-- Key achievements: 95% client satisfaction rate, 30% average performance improvement over legacy systems
+<div align="center">
 
-### ● Open Source Builder — Community Projects • 2024 – Present
-- Maintainer of Savlink, CineBrain, JustScroll, AgriPrice, and Weatherly projects
-- Active contributor to developer community with tutorials and code samples
-- Technologies: Full JavaScript/TypeScript ecosystem, Python data science stack, DevOps tools
+<img src="./assets/about.svg" width="100%" alt="About. I build scalable web products focused on backend reliability, API design, and responsive frontend systems. Backend focus: APIs, auth systems, PostgreSQL, Redis. Frontend focus: React UI systems and responsive frontend architecture. Currently exploring: system design and LLM applications." />
 
----
- 
- 
-## TECH STACK
- 
-<div align="left">
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 16px;">
-    <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></span>
-    <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></span>
-    <span><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></span>
-  </div>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 16px;">
-    <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></span>
-    <span><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></span>
-    <span><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></span>
-  </div>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 16px;">
-    <span><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></span>
-    <span><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"></span>
-    <span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></span>
-  </div>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 16px;">
-    <span><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></span>
-    <span><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></span>
-  </div>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 16px;">
-    <span><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></span>
-    <span><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"></span>
-  </div>
 </div>
 
----
- 
- 
-## KEY COMPETENCIES
+**Active projects**
 
-<div align="left">
-  <div style="background: transparent; padding: 16px; border-radius: 8px; border: 1px solid rgba(128,128,128,0.35); border-left: 4px solid #0D6EFD;">
-    <strong>Backend Development</strong><br/>
-    • REST API architecture • Database optimization • Authentication systems<br/>
-    • Microservices • Caching strategies • Serverless deployment
-  </div>
-  <div style="background: transparent; padding: 16px; border-radius: 8px; border: 1px solid rgba(128,128,128,0.35); border-left: 4px solid #0D6EFD; margin-top: 12px;">
-    <strong>Frontend Engineering</strong><br/>
-    • React.js ecosystem • State management • Performance optimization<br/>
-    • Responsive design • Progressive Web Apps • Cross-platform frameworks
-  </div>
-  <div style="background: transparent; padding: 16px; border-radius: 8px; border: 1px solid rgba(128,128,128,0.35); border-left: 4px solid #0D6EFD; margin-top: 12px;">
-    <strong>Full-Stack Integration</strong><br/>
-    • API-first development • Real-time applications • DevOps & CI/CD<br/>
-    • Cloud platforms • Testing strategies • Security best practices
-  </div>
+- <img src="https://raw.githubusercontent.com/srinathnulidonda/savlink/main/frontend/src/assets/logo.png" width="18" height="18" align="top" alt=""> &nbsp;**[Savlink](https://savlink.vercel.app)**: Smart personal web library with folders, tags, short URLs & analytics
+- <img src="https://raw.githubusercontent.com/srinathnulidonda/CineBrain/main/assets/images/cb.png" width="18" height="18" align="top" alt=""> &nbsp;**[CineBrain](https://cinebrain.vercel.app/)**: AI movie, TV & anime recommendations with JWT auth
+
+## Portfolio
+
+<div align="center">
+
+**A fast, accessible portfolio with a built-in chat assistant and a spam-protected contact form.**
+
+Light and dark themes &nbsp;·&nbsp; Built-in chat assistant &nbsp;·&nbsp; Spam-protected contact form &nbsp;·&nbsp; Accessible and SEO-ready
+
+`Next.js` &nbsp; `React` &nbsp; `TypeScript` &nbsp; `Tailwind CSS` &nbsp; `Vercel`
+
+
+
+[![Visit portfolio](https://img.shields.io/badge/Visit_portfolio-srinathnulidonda.vercel.app-0D6EFD?style=for-the-badge&logo=vercel&logoColor=white)](https://srinathnulidonda.vercel.app)
+[![View resume](https://img.shields.io/badge/View_resume-PDF-57606a?style=for-the-badge&logo=readme&logoColor=white)](https://srinathnulidonda.vercel.app/resume.pdf)
+
 </div>
 
----
- 
- 
-## FEATURED PROJECTS
+## Tech Stack
 
-### <img src="https://raw.githubusercontent.com/srinathnulidonda/savlink/main/frontend/src/assets/logo.png" width="24" height="24" align="middle"> &nbsp;Savlink&nbsp;&nbsp; [![Live](https://img.shields.io/badge/Live-0D6EFD?style=flat-square&logo=vercel&logoColor=white)](https://savlink.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/srinathnulidonda/savlink)
+<div align="center">
 
-- Knowledge management platform with hierarchical folder/tag organization
-- Custom short-link generation with an analytics dashboard
-- RESTful APIs for seamless integration
-- Built with React.js, Node.js/Express, PostgreSQL, and Redis caching
-- Deployed on Vercel with a CI/CD pipeline ensuring 99.9% uptime
+<img src="./assets/skills.svg" width="100%" alt="Tech stack. Frontend: React, Next.js, TypeScript, JavaScript, Tailwind CSS. Backend: Python, Flask, FastAPI. Database: PostgreSQL, Redis, Firebase. Mobile: Flutter, Dart. Deployment: Vercel, Render." />
 
-### <img src="https://raw.githubusercontent.com/srinathnulidonda/CineBrain/main/assets/images/cb.png" width="24" height="24" align="middle"> &nbsp;CineBrain&nbsp;&nbsp; [![Live](https://img.shields.io/badge/Live-0D6EFD?style=flat-square&logo=vercel&logoColor=white)](https://cinebrain.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/srinathnulidonda/cinebrain)
+</div>
 
-- Intelligent recommendation system leveraging TMDB APIs and machine learning
-- Delivers personalized movie, TV show, and anime suggestions
-- Features collaborative filtering, content-based filtering, and hybrid recommendation engines
-- Built with Python/FastAPI backend, React.js frontend with Redux, and PostgreSQL
-- Achieved 85%+ recommendation accuracy in user testing
+## Key Competencies
 
-### <img src="https://raw.githubusercontent.com/srinathnulidonda/justscroll/main/web/favicon.png" width="24" height="24" align="middle"> &nbsp;JustScroll&nbsp;&nbsp; [![Live](https://img.shields.io/badge/Live-0D6EFD?style=flat-square&logo=vercel&logoColor=white)](https://justscroll.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/srinathnulidonda/justscroll)
+<div align="center">
 
-- Cross-platform manga reader supporting 50+ manga sources
-- Offline reading, intelligent chapter tracking, and cross-device sync
-- React.js web interface and Flutter mobile clients with shared business logic
-- Adaptive image quality and background chapter downloading
-- Supports EPUB and CBZ formats with customizable reading modes
+<img src="./assets/competencies.svg" width="100%" alt="Key competencies. Backend development: REST API architecture, database optimization, authentication systems, microservices, caching strategies, serverless deployment. Frontend engineering: React.js ecosystem, state management, performance optimization, responsive design, Progressive Web Apps, cross-platform frameworks. Full-stack integration: API-first development, real-time applications, DevOps and CI/CD, cloud platforms, testing strategies, security best practices." />
 
-### 🌾 AgriPrice&nbsp;&nbsp; [![Live](https://img.shields.io/badge/Live-0D6EFD?style=flat-square&logo=render&logoColor=white)](https://agriprice-tracker.onrender.com) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/srinathnulidonda/agriprice-tracker)
+</div>
 
-- Agricultural price forecasting system using machine learning models
-- Random Forest algorithm with feature engineering across prices, weather, and seasonal patterns
-- Built with Python/scikit-learn backend and a React.js dashboard with real-time charts
-- Delivers 7-day forecasts with 80%+ accuracy across major agricultural commodities
+## Featured Projects
 
-### <img src="https://raw.githubusercontent.com/srinathnulidonda/weatherly/main/frontend/assets/favicon.png" width="24" height="24" align="middle"> &nbsp;Weatherly&nbsp;&nbsp; [![Live](https://img.shields.io/badge/Live-0D6EFD?style=flat-square&logo=vercel&logoColor=white)](https://getweatherly.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Srinathnulidonda/weatherly)
+| Project | About | Stack | Links |
+| :-- | :-- | :-- | :-- |
+| **Weatherly**<br /><sub>Full stack web and mobile app</sub> | Weather platform that aggregates six providers with automatic failover, with a React web app and a Flutter Android app that shows the last known weather offline. | `FastAPI` `PostgreSQL` `Redis` `React` `Vite` `Tailwind CSS` `Flutter` `Dart` | [Live ↗](https://getweatherly.vercel.app/)<br />[Source ↗](https://github.com/Srinathnulidonda/weatherly) |
+| **CineBrain**<br /><sub>AI/ML web app</sub> | AI-powered entertainment platform for discovering movies, TV shows and anime with personalized recommendations, reviews and intelligent content discovery. | `Flask` `PostgreSQL` `Redis` `React` `Vite` `TMDB API` `JWT` `Cloudinary` | [Live ↗](https://cinebrain.vercel.app/)<br />[Source ↗](https://github.com/srinathnulidonda/cinebrain) |
+| **Sridhar Internet Services**<br /><sub>Full stack web app</sub> | Business website and service platform with service information, job postings, contact functionality and a backend-powered management system. | `Next.js` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL` | [Live ↗](https://sridharinternetservices.vercel.app)<br /><sub>Source is private</sub> |
+| **Manga Reader**<br /><sub>Full stack web and mobile app</sub> | Cross-platform manga reader with multi-source content, advanced reading modes, bookmarks, reading history, authentication and synced user data. | `React` `Flutter` `FastAPI` `PostgreSQL` `Redis` `Tailwind CSS` | [Live ↗](https://justscroll.vercel.app)<br />[Source ↗](https://github.com/srinathnulidonda/justscroll) |
+| **Savlink**<br /><sub>Full stack web app</sub> | Bookmark manager to save, organize and search links with folders and tags, backed by Flask REST APIs, PostgreSQL authentication and Redis caching. | `Flask` `PostgreSQL` `Redis` `React` `Tailwind CSS` | [Live ↗](https://savlink.vercel.app)<br />[Source ↗](https://github.com/Srinathnulidonda/savlink) |
+| **Toolverse**<br /><sub>Developer and productivity platform</sub> | Fast developer and productivity tools including JSON, encoding, UUID, password, QR code and PDF utilities. | `Next.js` `TypeScript` `React` `Tailwind CSS` `Vercel` | [Live ↗](https://toolverses.vercel.app)<br />[Source ↗](https://github.com/srinathnulidonda/toolverse) |
+| **SmartCrop**<br /><sub>AI/ML web app</sub> | Machine learning platform that recommends suitable crops from environmental and agricultural data, with weather and location-based information. | `Python` `Flask` `Scikit-learn` `PostgreSQL` `OpenWeather API` `Google Maps` | [Live ↗](https://agriprice-tracker.onrender.com)<br />[Source ↗](https://github.com/srinathnulidonda/agriprice-tracker) |
+| **Galaxy S26 Ultra Privacy Display**<br /><sub>Interactive 3D web experience</sub> | Unofficial interactive 3D demo of a phone privacy display, with adjustable privacy controls and a 3D phone model built with CSS transforms. | `React` `Vite` `CSS 3D` `Responsive Design` | [Live ↗](https://s26-ultra.vercel.app/)<br />[Source ↗](https://github.com/srinathnulidonda/s26-ultra-3d) |
 
-- Comprehensive weather platform with real-time meteorological data and forecasts
-- Dynamic theme engine that adapts to weather conditions, plus severe weather alerts
-- Microservices architecture: Python/Flask API, React.js PWA, and Flutter mobile client
-- Processes data from multiple weather providers with sub-second response times
+<div align="center">
 
----
- 
+[![All projects](https://img.shields.io/badge/View_all_projects-srinathnulidonda.vercel.app-0D6EFD?style=for-the-badge&logo=vercel&logoColor=white)](https://srinathnulidonda.vercel.app/#projects)
+
+</div>
+
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Srinathnulidonda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="180" alt="GitHub stats"/>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=Srinathnulidonda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="100%" alt="GitHub stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=Srinathnulidonda&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" alt="GitHub streak stats" />
+    </td>
+  </tr>
+</table>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Srinathnulidonda&theme=dark&background=000000&cache_seconds=86400" alt="GitHub streak stats"/>
-
-<br/>
- 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srinathnulidonda&theme=tokyo-night&hide_border=true)](https://github.com/Srinathnulidonda)
- 
-</div>
- 
----
- 
-<div align="center">
- 
+
+<img src="./assets/divider.svg" width="100%" height="3" alt="" />
+
 ### Available for
- 
+
 **Full stack engineering roles · Backend opportunities · Freelance product development**
- 
-<br/>
- 
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D6EFD?style=for-the-badge&logo=vercel&logoColor=white)](https://srinathnulidonda.vercel.app)
 &nbsp;&nbsp;
 [![Hire Me](https://img.shields.io/badge/Contact-28A745?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinathnulidonda@gmail.com)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinathnulidonda)
- 
+
 </div>
